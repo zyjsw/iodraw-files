@@ -38,7 +38,7 @@
         <mxCell id="Vhvy0xxZabrBW3L-wI5D-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QziGCVwJ5idE4WWK-Q5s-4">
           <mxGeometry x="20" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vhvy0xxZabrBW3L-wI5D-4" style="swimlane;startSize=20;" vertex="1" parent="QziGCVwJ5idE4WWK-Q5s-1">
+        <mxCell id="Vhvy0xxZabrBW3L-wI5D-4" value="D1" style="swimlane;startSize=20;" vertex="1" parent="QziGCVwJ5idE4WWK-Q5s-1">
           <mxGeometry x="530" width="160" height="480" as="geometry">
             <mxRectangle x="260" width="40" height="480" as="alternateBounds" />
           </mxGeometry>
