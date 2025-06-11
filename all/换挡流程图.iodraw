@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="QziGCVwJ5idE4WWK-Q5s-1" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="130" y="530" width="530" height="480" as="geometry">
+          <mxGeometry x="130" y="530" width="850" height="480" as="geometry">
             <mxRectangle x="130" y="530" width="40" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -38,13 +38,18 @@
         <mxCell id="Vhvy0xxZabrBW3L-wI5D-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QziGCVwJ5idE4WWK-Q5s-4">
           <mxGeometry x="20" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vhvy0xxZabrBW3L-wI5D-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="QziGCVwJ5idE4WWK-Q5s-1" source="QziGCVwJ5idE4WWK-Q5s-7" target="QziGCVwJ5idE4WWK-Q5s-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QziGCVwJ5idE4WWK-Q5s-5" value="D1" style="swimlane;startSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="620" y="220" width="260" height="480" as="geometry">
+        <mxCell id="Vhvy0xxZabrBW3L-wI5D-4" style="swimlane;startSize=20;" vertex="1" parent="QziGCVwJ5idE4WWK-Q5s-1">
+          <mxGeometry x="530" width="160" height="480" as="geometry">
             <mxRectangle x="260" width="40" height="480" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Vhvy0xxZabrBW3L-wI5D-5" style="swimlane;startSize=20;" vertex="1" parent="QziGCVwJ5idE4WWK-Q5s-1">
+          <mxGeometry x="690" width="160" height="480" as="geometry">
+            <mxRectangle x="260" width="40" height="480" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vhvy0xxZabrBW3L-wI5D-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="QziGCVwJ5idE4WWK-Q5s-1" source="QziGCVwJ5idE4WWK-Q5s-7" target="QziGCVwJ5idE4WWK-Q5s-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
