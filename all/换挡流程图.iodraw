@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="QziGCVwJ5idE4WWK-Q5s-1" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;labelBackgroundColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="130" y="530" width="850" height="890" as="geometry">
+          <mxGeometry x="130" y="530" width="879" height="890" as="geometry">
             <mxRectangle x="130" y="530" width="40" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -50,7 +50,7 @@
           <mxGeometry x="40" y="620" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Vhvy0xxZabrBW3L-wI5D-5" value="D2" style="swimlane;startSize=34;labelBackgroundColor=none;" parent="QziGCVwJ5idE4WWK-Q5s-1" vertex="1">
-          <mxGeometry x="690" width="160" height="890" as="geometry">
+          <mxGeometry x="690" width="189" height="890" as="geometry">
             <mxRectangle x="260" width="40" height="480" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
