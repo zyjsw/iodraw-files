@@ -5,5 +5,5 @@ graph TD
     C -->|One| D[Laptop]
     C -->|Two| E[iPhone]
     C -->|Three| F[fa:fa-car Car]
-    C -->|已擦除| G[]
+    C -->|已擦除| G[aa]
 ```
